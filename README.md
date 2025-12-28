@@ -1,14 +1,5 @@
 # ci-cd-final-project
 
+![CI](https://github.com/afkaryan/simple-interest-calculator/actions/workflows/ci-build.yml/badge.svg)
+
 Simple Interest Calculator
-
-Formula:
-Simple Interest = (Principal × Rate × Time) / 100
-
-Inputs:
-- Principal amount
-- Rate of interest
-- Time period
-
-Output:
-- Simple Interest value
