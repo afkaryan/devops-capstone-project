@@ -1,4 +1,5 @@
-# simple-interest-calculator
+# ci-cd-final-project
+
 Simple Interest Calculator
 
 Formula:
